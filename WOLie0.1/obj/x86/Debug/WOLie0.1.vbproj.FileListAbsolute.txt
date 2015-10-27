@@ -1,0 +1,21 @@
+C:\Users\Caleb\AppData\Local\Temporary Projects\WOLie0.1\bin\Debug\WOLie0.1.exe
+C:\Users\Caleb\AppData\Local\Temporary Projects\WOLie0.1\bin\Debug\WOLie0.1.pdb
+C:\Users\Caleb\AppData\Local\Temporary Projects\WOLie0.1\bin\Debug\WOLie0.1.xml
+C:\Users\Caleb\AppData\Local\Temporary Projects\WOLie0.1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Caleb\AppData\Local\Temporary Projects\WOLie0.1\obj\x86\Debug\WOLie0._1.Form1.resources
+C:\Users\Caleb\AppData\Local\Temporary Projects\WOLie0.1\obj\x86\Debug\WOLie0._1.Resources.resources
+C:\Users\Caleb\AppData\Local\Temporary Projects\WOLie0.1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Caleb\AppData\Local\Temporary Projects\WOLie0.1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Caleb\AppData\Local\Temporary Projects\WOLie0.1\obj\x86\Debug\WOLie0.1.exe
+C:\Users\Caleb\AppData\Local\Temporary Projects\WOLie0.1\obj\x86\Debug\WOLie0.1.xml
+C:\Users\Caleb\AppData\Local\Temporary Projects\WOLie0.1\obj\x86\Debug\WOLie0.1.pdb
+C:\Users\Caleb\documents\visual studio 2010\Projects\WOLie0.1\WOLie0.1\bin\Debug\logicalmemoryconfiguration.ico
+C:\Users\Caleb\documents\visual studio 2010\Projects\WOLie0.1\WOLie0.1\bin\Debug\WOLie0.1.exe
+C:\Users\Caleb\documents\visual studio 2010\Projects\WOLie0.1\WOLie0.1\bin\Debug\WOLie0.1.pdb
+C:\Users\Caleb\documents\visual studio 2010\Projects\WOLie0.1\WOLie0.1\bin\Debug\WOLie0.1.xml
+C:\Users\Caleb\documents\visual studio 2010\Projects\WOLie0.1\WOLie0.1\obj\x86\Debug\WOLie0._1.Form1.resources
+C:\Users\Caleb\documents\visual studio 2010\Projects\WOLie0.1\WOLie0.1\obj\x86\Debug\WOLie0._1.Resources.resources
+C:\Users\Caleb\documents\visual studio 2010\Projects\WOLie0.1\WOLie0.1\obj\x86\Debug\WOLie0.1.vbproj.GenerateResource.Cache
+C:\Users\Caleb\documents\visual studio 2010\Projects\WOLie0.1\WOLie0.1\obj\x86\Debug\WOLie0.1.exe
+C:\Users\Caleb\documents\visual studio 2010\Projects\WOLie0.1\WOLie0.1\obj\x86\Debug\WOLie0.1.xml
+C:\Users\Caleb\documents\visual studio 2010\Projects\WOLie0.1\WOLie0.1\obj\x86\Debug\WOLie0.1.pdb
